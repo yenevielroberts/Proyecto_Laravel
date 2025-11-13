@@ -1,6 +1,6 @@
 # Proyecto con Laravel-Tienda online de comida Kntina
 
-He desarrollado una apliación web como prueba tecnica para la empresa de Abalit.
+He desarrollado una apliación web como prueba tecnica para una empresa.
 La aplicación es sobre una tienda online de comida. 
 
 ## Funcionalidades:
